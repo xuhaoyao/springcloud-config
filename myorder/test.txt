@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 aaaabbb
+=======
+aaaaccc
+>>>>>>> b1
